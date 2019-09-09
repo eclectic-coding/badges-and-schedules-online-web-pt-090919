@@ -12,19 +12,3 @@ def batch_badge_creator(array)
   return new_array
 end
 
-# batch_badge_creator(name)
-  
-
-
-# def batch_badge_creator(names)
-#   names.each do |name|
-#     puts name
-# end 
-
-# def assign_rooms(names)
-  
-# end
-
-# def printer 
-  
-# end
