@@ -6,7 +6,7 @@ def badge_maker(attendees)
   end
 end
 
-badge_maker(attendees)
+# badge_maker(attendees)
   
 
 
